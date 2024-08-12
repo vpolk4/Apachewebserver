@@ -12,7 +12,8 @@
 
 - ## Prerequisites
 - An AWS CLoud Account (or any other Cloud Provider)
-- ![image](https://github.com/user-attachments/assets/48d5b7f4-4309-4ddd-b401-c858d9dc5c1a)
+- ![image](https://github.com/user-attachments/assets/23153099-0132-4152-9b83-4d10e9811fb5)
+
 
 
 
