@@ -13,6 +13,7 @@
 - ## Prerequisites
 - An AWS CLoud Account (or any other Cloud Provider)
 ![image](https://github.com/user-attachments/assets/c46f6e73-e979-471e-b708-99accf6462cc)
+- Basic Understanding of Linux Commands and Terminal Usage 
 
 
 
