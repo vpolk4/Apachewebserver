@@ -8,5 +8,10 @@
 - Linux: This project involes setting up a web server using Ubuntu Linux connecting to the Server via SSH, and performing administrative tasks such as updating packages.
 - Cloud Computing: Creating a server on a cloud provider such as AWS, Azure, or GCP are the most common platforms.
 - Infrastructure as Code principles can be applied when configuring the web surver tools like Terraform.
-- Server Monitoring: Monitoring the server's performance, setting up alerts and ensuring it's availibility is important. 
+- Server Monitoring: Monitoring the server's performance, setting up alerts and ensuring it's availibility is important.
+
+- ## Prerequisites
+- An AWS CLoud Account (or any other Cloud Provider)
+- ![Uploading image.png…]()
+
 
