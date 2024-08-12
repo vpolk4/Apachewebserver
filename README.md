@@ -10,10 +10,12 @@
 - Infrastructure as Code principles can be applied when configuring the web surver tools like Terraform.
 - Server Monitoring: Monitoring the server's performance, setting up alerts and ensuring it's availibility is important.
 
-- ## Prerequisites
-- An AWS CLoud Account (or any other Cloud Provider)
+- ## Documentation
+- Step 1: Log into your AWS IAM account.
 ![image](https://github.com/user-attachments/assets/c46f6e73-e979-471e-b708-99accf6462cc)
-- Basic Understanding of Linux Commands and Terminal Usage 
+
+ -Step 2: Once you log into your AWS Console, search for EC2 and launch a new EC2 instance. 
+ ![image](https://github.com/user-attachments/assets/197b9971-f61d-46b2-be2b-529a88dca3f6)
 
 
 
