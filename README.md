@@ -12,6 +12,7 @@
 
 - ## Prerequisites
 - An AWS CLoud Account (or any other Cloud Provider)
-- ![Uploading image.png…]()
+- ![image](https://github.com/user-attachments/assets/48d5b7f4-4309-4ddd-b401-c858d9dc5c1a)
+
 
 
